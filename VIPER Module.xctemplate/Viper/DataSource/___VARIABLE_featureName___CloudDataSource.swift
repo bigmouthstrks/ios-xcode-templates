@@ -1,0 +1,3 @@
+// MARK: - ___VARIABLE_featureName___CloudDataSource
+final class ___VARIABLE_featureName___CloudDataSource: ___VARIABLE_featureName___CloudDataSourceProtocol {
+}

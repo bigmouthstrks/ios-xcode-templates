@@ -1,0 +1,2 @@
+// MARK: - ___VARIABLE_featureName___LocalDataSource
+final class ___VARIABLE_featureName___LocalDataSource: ___VARIABLE_featureName___LocalDataSourceProtocol {}
