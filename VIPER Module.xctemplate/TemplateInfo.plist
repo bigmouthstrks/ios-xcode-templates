@@ -146,30 +146,6 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
-		<dict>
-			<key>Identifier</key>
-			<string>eventsAnalytics</string>
-			<key>Default</key>
-			<string>Events/___VARIABLE_featureName:identifier___Events+Analytics</string>
-			<key>Name</key>
-			<string>EventsAnalytics:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
-			<string>eventsMetrics</string>
-			<key>Default</key>
-			<string>Events/___VARIABLE_featureName:identifier___Events+Metrics</string>
-			<key>Name</key>
-			<string>EventsMetrics:</string>
-			<key>Required</key>
-			<true/>
-			<key>Type</key>
-			<string>static</string>
-		</dict>
 	</array>
 	<key>Platforms</key>
 	<array>
